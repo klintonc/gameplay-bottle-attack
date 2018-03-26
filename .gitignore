@@ -1,0 +1,7 @@
+*.pdf
+*.class
+out/
+.idea/
+*.iml
+battle_log.txt
+.DS_Store
